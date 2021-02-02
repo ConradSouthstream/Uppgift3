@@ -1,0 +1,27 @@
+﻿3.2 punkt 13 "Om vi under utvecklingen kommer fram till att samtliga fåglar behöver ett nytt attribut,
+i vilken klass bör vi lägga det?:
+
+Vi lägger den i Bird klassen.
+
+3.2 punkt 14 "Om alla djur behöver det nya attributet, vart skulle man lägga det då?":
+
+Vi lägger den i den abstrakta Animal klassen
+
+3.3 punkt 9 "Försök att lägga till en häst i listan av hundar. Varför fungerar inte det?":
+
+Hund klassen har ingen referens till häst klassen.
+
+3.3 punkt 10 "Vilken typ måste listan vara för att alla klasser skall kunna lagras tillsammans?""
+
+var, för att kunna hantera alla variablar.
+
+3.4 punkt 11 "Varför är polymorfism viktigt att behärska?"
+För att kunna göra versatila implementeringar.
+
+3.4 punkt 12 "Hur kan polymorfism förändra och förbättra kod via en bra struktur?"
+Det öppnar fler alternativa möjligheter för att utföra ens kod.
+
+3.4 punkt 13 "Vad är det för en skillnad på en Abstrakt klass och ett Interface?"
+En abstrakt klass ställer krav på vad som ska finnas med vidare i kedjan
+Medans ett interface kan man lägga till utan ordentliga krav.
+
